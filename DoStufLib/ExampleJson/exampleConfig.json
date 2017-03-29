@@ -1,0 +1,11 @@
+﻿{
+  "ActivityTasks": [
+    {
+      "Type": "CommandTask",
+      "Args": {
+        "Command": "explorer.exe",
+        "Args": "~\\Documents"
+      }
+    }
+  ]
+}
